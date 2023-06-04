@@ -35,5 +35,4 @@ async function getCopySuggestion(productName, productDesc, productTarget) {
 	document.getElementById('ad-output-copy').insertAdjacentText('beforeend', response.data.choices[0].text.trim());
 	document.getElementById('ad-input').style.display = 'none';
 	document.getElementById('ad-output').style.display = 'block';
-	console.log(response);
 }
