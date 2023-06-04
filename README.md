@@ -1,7 +1,7 @@
-# AdCompose - React.js App
+# AdCompose
 
 ## Description
-AdCompose is an innovative ReactJS application integrating the power of OpenAI's ChatGPT API to swiftly generate engaging advertising text for your products,enhancing your marketing efforts and brand visibility.. Enhance your marketing strategy with automated, AI-powered promotional copy.
+AdCompose is an innovative JS application integrating the power of OpenAI's ChatGPT API to swiftly generate engaging advertising text for your products,enhancing your marketing efforts and brand visibility.. Enhance your marketing strategy with automated, AI-powered promotional copy.
 
 ## Features
 * User-friendly interface for product description inputs.

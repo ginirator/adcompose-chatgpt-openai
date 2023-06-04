@@ -2,7 +2,7 @@
   "name": "adcompose",
   "author": "Valeriu Dodon",
   "version": "1.0.0",
-  "description": "A ReactJS application employing the ChatGPT API to swiftly generate engaging advertising text for your products.",
+  "description": "A JS application employing the ChatGPT API to swiftly generate engaging advertising text for your products.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ginirator/react-chatgpt-adcomposet.git"
