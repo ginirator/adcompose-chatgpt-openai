@@ -5,13 +5,13 @@
   "description": "A JS application employing the ChatGPT API to swiftly generate engaging advertising text for your products.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ginirator/react-chatgpt-adcomposet.git"
+    "url": "git+https://github.com/ginirator/adcompose-chatgpt-openai.git"
   },
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/ginirator/react-chatgpt-adcompose/issues"
+    "url": "https://github.com/ginirator/adcompose-chatgpt-openai/issues"
   },
-  "homepage": "https://github.com/ginirator/react-chatgpt-adcompose#readme",
+  "homepage": "https://github.com/ginirator/adcompose-chatgpt-openai#readme",
   "dependencies": {
     "openai": "3.2.1"
   },
