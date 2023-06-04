@@ -1,0 +1,34 @@
+<html>
+
+<head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Karla&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+    <div id="adcompose-wrapper">
+        <h2>Welcome to AdCompose</h2>
+        <p>Get promotional copy for your products fast!</p>
+
+        <form id="ad-input">
+            <label for="name">Product Name:</label>
+            <input type="text" id="name" name="name">
+            <label for="desc">Product Description:</label>
+            <textarea id="desc" name="desc"></textarea>
+            <label for="target">Target Market:</label>
+            <input type="text" id="target" name="target">
+            <button type="button" id="submit-button">Generate Copy</button>
+        </form>
+
+        <div id="ad-output">
+            <h3>Your Advertising Copy:</h3>
+            <p id="ad-output-copy"></p>
+        </div>
+    </div>
+
+	<script type="module" src="index.js" defer></script>
+</body>
+
+</html>

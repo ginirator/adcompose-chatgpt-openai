@@ -1,0 +1,30 @@
+{
+  "name": "adcompose",
+  "author": "Valeriu Dodon",
+  "version": "1.0.0",
+  "description": "A ReactJS application employing the ChatGPT API to swiftly generate engaging advertising text for your products.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginirator/react-chatgpt-adcomposet.git"
+  },
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ginirator/react-chatgpt-adcompose/issues"
+  },
+  "homepage": "https://github.com/ginirator/react-chatgpt-adcompose#readme",
+  "dependencies": {
+    "openai": "3.2.1"
+  },
+  "devDependencies": {
+    "vite": "latest",
+    "node-sass": "^6.0.1"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "scss": "node-sass assets/css/style.scss assets/css/style.css",
+    "watch": "npm run scss -- --watch"
+  }
+}
